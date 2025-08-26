@@ -1,7 +1,3 @@
-<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/b4ffb41d-9771-409a-b9df-4757783e155e" />
-
-###
-
 **<h2>🚀 Códigos iniciantes de JavaScript 🚀</h2>**
 
 ---
